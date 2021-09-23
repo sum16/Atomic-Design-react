@@ -1,4 +1,4 @@
-# Atomic-Design-react
+# Atomic-Designを用いてコンポーネントを作成
 
 ##Atomic の作成  
 ##Atom の作成  

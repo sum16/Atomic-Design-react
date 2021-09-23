@@ -1,8 +1,8 @@
 import "./styles.css";
-import { PrimaryButton } from "./components/atom/button/PrimaryButton";
-import { SecondaryButton } from "./components/atom/button/SecondaryButton";
+import { PrimaryButton } from "./components/atoms/button/PrimaryButton";
+import { SecondaryButton } from "./components/atoms/button/SecondaryButton";
 import { SearchInput } from "./components/molecules/SearchInput";
-import { UserCard } from "./components/organism/user/UserCard";
+import { UserCard } from "./components/organisms/user/UserCard";
 
 const user = {
   name: "太郎",
